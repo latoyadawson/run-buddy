@@ -67,7 +67,7 @@ footer a {
   color: #024e76;
 }
 
-/* section styling */
+/*  general section styling */
 section { 
   padding: 60px;
   
@@ -236,23 +236,23 @@ section {
 /*trainers section end*/
 
 /*reach out section start*/
-.reach {
+.contact {
   background: #024e76;
   text-align: center;
   
 }
 
-.reach h2 {
+.contact h2 {
   color: #fce138;
   border-color: teal;
 }
 
-.reach iframe {
+.contact-info iframe {
   width: 400px;
   height: 400px;
 }
 
-.reach div {
+.contact-info div {
   width: 410px;
   display: inline-block;
   vertical-align: top;
@@ -261,19 +261,20 @@ section {
   color: white;
 }
 
-.reach h3 {
+.contact-info h3 {
   color: #fce138;
   font-size: 32px;
 }
 
-.reach p, .reach address {
+.contact-info p, 
+.contact-info address {
   margin: 20px 0;
   line-height: 1.5;
   font-size: 20px;
   font-style: normal;
 }
 
-.reach a {
+.contact-info a {
   color: #fce138;
 }
 /*reach out section end*/
