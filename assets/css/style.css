@@ -152,8 +152,9 @@ section {
   font-size: 20px;
   margin:  0 auto;
 }
+/* what we do section end */
  
-/* what you do section styling */
+/* what you do section start */
 .steps {
   text-align: center;
   background: #fce138;
@@ -181,8 +182,9 @@ section {
 .steps span {
   font-size: 38px;
 }
+/* what you do section end */
 
-/*trainers styling*/
+/*trainers section start*/
 .trainers {
   text-align: center;
 }
@@ -227,3 +229,11 @@ section {
   font-size: 17px;
   line-height: 1.3;
 }
+
+#joanna {
+  float: right;
+}
+/*trainers section end*/
+
+/*rechout section start*/
+/*rechout section end*/
