@@ -220,11 +220,13 @@ section {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-}
-
-.step:nth-child(even) {
   border-bottom: 1px solid #39a6b2;
 }
+
+.step:last-child{
+  border-bottom: none;
+}
+
 
 .step h3 {
   color: #024e76;
